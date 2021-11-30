@@ -26,11 +26,16 @@ const Zarif = {
             js: ["Node", "Express"],
             python: ["Django", "Django RESTFramework"],
         },
+        frontEnd : [ReactJs: [
+          "Redux",
+        ], "HTML", CSS: [
+          "TailwindCSS",
+        ]]
         devOps: ["Docker🐳"],
         databases: ["MongoDB", "MySql", "PostgreSQL" "Sqlite"],
         misc: ["Firebase", "selenium", "Computer NetWorking", "CryptoGraphy", "BlockChain"]
     },
-    currentFocus: ["MERN Stack", "DSA", "BlockChain"]
+    currentFocus: ["MERN Stack", "DSA", "BlockChain"],
     InterestingFact: "Computer Programming was instrumental in helping end World War II"
 };
 ```
