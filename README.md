@@ -14,7 +14,10 @@
 </h5>
 <br>
 
-<img align="center" width="300" src="https://media.giphy.com/media/QWLtrEtGZEKsxjlPre/giphy.gif">
+<div align="center">
+  <img width="300" src="https://media.giphy.com/media/QWLtrEtGZEKsxjlPre/giphy.gif">
+</div>
+
 
 ### <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="50"> A little more about me...  
 
