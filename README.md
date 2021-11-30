@@ -17,24 +17,21 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const Zarif = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Swift", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "Java", "C++"],
+    askMeAbout: ["Web App Dev", "DSA", "Competitive Programming "],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
+            js: ["Node", "Express"],
+            python: ["Django", "Django RESTFramework"],
         },
-        mobileApp: {
-            native: ["Android Development", "IOS Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["Docker🐳"],
+        databases: ["MongoDB", "MySql", "PostgreSQL" "Sqlite"],
+        misc: ["Firebase", "selenium", "Computer NetWorking", "CryptoGraphy", "BlockChain"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: ["MERN Stack", "DSA", "BlockChain"]
+    InterestingFact: "Computer Programming was instrumental in helping end World War II"
 };
 ```
 
