@@ -14,7 +14,7 @@
 </h5>
 <br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Zarif = {
@@ -26,7 +26,7 @@ const Zarif = {
             js: ["Node", "Express"],
             python: ["Django", "Django RESTFramework"],
         },
-        frontEnd : [ReactJs: {
+        frontEnd: [ReactJs: {
           "Redux",
         }, "HTML", CSS: {
           "TailwindCSS",
