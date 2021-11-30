@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/md-zarif-ul-huq-408b4a198/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://zarif007.github.io/AboutZarif/" title="PortFolio Site"><img width="22" src="images/web.png">Portfolio WebSite</a></code>
+  <code><a href="https://zarif007.github.io/AboutZarif/" title="Personal Website"><img width="22" src="images/web.png">Personal Website</a></code>
   <code><a href="https://www.instagram.com/001_heisenberg/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
@@ -35,6 +35,7 @@ const Zarif = {
         databases: ["MongoDB", "MySql", "PostgreSQL" "Sqlite"],
         misc: ["Firebase", "selenium", "Computer NetWorking", "CryptoGraphy", "BlockChain"]
     },
+    smallAchievements: ["3rd in BracU IUPC Div1", "Google KickStart Round H Local Rank-29th"],
     currentFocus: ["MERN Stack", "DSA", "BlockChain"],
     InterestingFact: "Computer Programming was instrumental in helping end World War II"
 };
