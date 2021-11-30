@@ -14,7 +14,7 @@
 </h5>
 <br>
 
-### <img src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Zarif = {
