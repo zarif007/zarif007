@@ -48,8 +48,9 @@ const Zarif = {
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Javascript" height="25" src="https://camo.githubusercontent.com/4da8fbe32d03f3cd0c099af887ce14d1bff01c3325501bae56bc5ca9563548f9/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246766563746f7269666965642e636f6d253246696d61676573253246657870726573732d6a732d69636f6e2d32302e706e6726663d31266e6f66623d31"></code>
+  <code><img title="Javascript" height="25" src="images/expressjs.svg"></code>
   <code><img title="Javascript" height="25" src="images/mongodb.svg"></code>
+  <code><img title="Javascript" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/800px-Ethereum-icon-purple.svg.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
