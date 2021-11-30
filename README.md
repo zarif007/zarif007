@@ -26,11 +26,11 @@ const Zarif = {
             js: ["Node", "Express"],
             python: ["Django", "Django RESTFramework"],
         },
-        frontEnd : [ReactJs: [
+        frontEnd : [ReactJs: {
           "Redux",
-        ], "HTML", CSS: [
+        }, "HTML", CSS: {
           "TailwindCSS",
-        ]]
+        }],
         devOps: ["Docker🐳"],
         databases: ["MongoDB", "MySql", "PostgreSQL" "Sqlite"],
         misc: ["Firebase", "selenium", "Computer NetWorking", "CryptoGraphy", "BlockChain"]
